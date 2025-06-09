@@ -3,13 +3,14 @@ using namespace std;
 #define ll long long
 
 ll modInverse(ll e, ll phi){
-    ll  t=0, newt=2,
+    ll  t=0, newt=1,
         r=phi, newr=e;
     while(newr != 0){
         ll quotient=r / newr;
         ll temp=newt;
         newt=t - quotient * newt;
         t=temp;
+        temp = newr;
         newr=r - quotient * newr;
         r=temp;
     }
@@ -53,7 +54,7 @@ int main()
     ll phi=(a-1) * (b-1);
     cout<<"Ta co phi = "<<phi<<'\n';
     ll e;
-    cout<<"Nhap 1 < e < phi: ", cin>>e;
+    cout<<"Nhap gioi han duoi cau ma bi mat (1 < e < phi): ", cin>>e;
     while(__gcd(e,phi) != 1)
         e++;
 

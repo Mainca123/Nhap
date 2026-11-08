@@ -1,0 +1,23 @@
+[
+  {
+    "ma": "SV01",
+    "hoTen": "Giàng Seo Chính",
+    "lop": "CNTT01",
+    "gioiTinh": "Nam",
+    "diem": 8.5
+  },
+  {
+    "ma": "SV02",
+    "hoTen": "Nguyễn An",
+    "lop": "CNTT02",
+    "gioiTinh": "Nữ",
+    "diem": 7.0
+  },
+  {
+    "ma": "SV03",
+    "hoTen": "Trần Bình",
+    "lop": "CNTT01",
+    "gioiTinh": "Nam",
+    "diem": 9.0
+  }
+]

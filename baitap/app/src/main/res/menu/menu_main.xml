@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_them"
+        android:title="@string/menu_them"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_luu"
+        android:title="@string/menu_luu"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_doc"
+        android:title="@string/menu_doc"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_gioi_thieu"
+        android:title="@string/menu_gioi_thieu"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_mo_website"
+        android:title="@string/menu_mo_website"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_xem_lich_su"
+        android:title="@string/menu_xem_lich_su"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_xoa_lich_su"
+        android:title="@string/menu_xoa_lich_su"
+        app:showAsAction="never" />
+</menu>

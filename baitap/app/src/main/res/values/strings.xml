@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quản lý sinh viên</string>
+    <string name="title_danh_sach">QUẢN LÝ SINH VIÊN</string>
+    <string name="title_nhap">NHẬP SINH VIÊN</string>
+    <string name="title_sua">SỬA SINH VIÊN</string>
+    <string name="title_chi_tiet">CHI TIẾT SINH VIÊN</string>
+
+    <!-- Headers & hints -->
+    <string name="hint_tim_kiem">Tìm theo mã hoặc tên</string>
+    <string name="header_ma">Mã SV</string>
+    <string name="header_ten">Họ tên</string>
+    <string name="header_lop">Lớp</string>
+    <string name="header_diem">Điểm</string>
+
+    <string name="huong_dan_1">Chạm một hàng để xem chi tiết</string>
+    <string name="huong_dan_2">Giữ một hàng để mở Sửa hoặc Xóa</string>
+    <string name="huong_dan_3">Nhấn nút ⋮ góc phải để mở menu</string>
+
+    <!-- Form labels -->
+    <string name="label_ma">Mã sinh viên</string>
+    <string name="label_ten">Họ tên</string>
+    <string name="label_lop">Lớp</string>
+    <string name="label_gioi_tinh">Giới tính</string>
+    <string name="gioi_tinh_nam">Nam</string>
+    <string name="gioi_tinh_nu">Nữ</string>
+    <string name="gioi_tinh_khac">Khác</string>
+    <string name="label_diem">Điểm trung bình</string>
+    <string name="chk_xac_nhan">Tôi xác nhận thông tin</string>
+    <string name="btn_luu_tro_ve">LƯU VÀ TRỞ VỀ</string>
+    <string name="btn_huy">HỦY</string>
+
+    <!-- Detail screen -->
+    <string name="btn_sua_thong_tin">SỬA THÔNG TIN</string>
+    <string name="btn_chia_se">CHIA SẺ</string>
+    <string name="btn_quay_lai">QUAY LẠI</string>
+    <string name="btn_tuy_chon">Popup ⋮ : Chia sẻ / Mở website</string>
+    <string name="desc_avatar">Ảnh đại diện sinh viên</string>
+
+    <!-- Menu Options -->
+    <string name="menu_them">Thêm sinh viên</string>
+    <string name="menu_luu">Lưu file</string>
+    <string name="menu_doc">Đọc file</string>
+    <string name="menu_gioi_thieu">Giới thiệu</string>
+    <string name="menu_mo_website">Mở website</string>
+    <string name="menu_xem_lich_su">Xem lịch sử</string>
+    <string name="menu_xoa_lich_su">Xóa lịch sử</string>
+
+    <!-- Context Menu -->
+    <string name="context_sua">Sửa</string>
+    <string name="context_xoa">Xóa</string>
+
+    <!-- Popup Menu -->
+    <string name="popup_chia_se">Chia sẻ</string>
+    <string name="popup_mo_website">Mở website</string>
+
+    <!-- Spinner Array -->
+    <string-array name="array_lop">
+        <item>CNTT01</item>
+        <item>CNTT02</item>
+        <item>CNTT03</item>
+    </string-array>
+</resources>

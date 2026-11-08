@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">OnTap1</string>
+    <string-array name="Danh_Sach_Lop">
+        <item>CNTT-1</item>
+        <item>CNTT-2</item>
+        <item>CNTT-3</item>
+        <item>CNTT-4</item>
+        <item>CNTT-5</item>
+    </string-array>
+
+    <string-array name="Danh_Sach_Trang_Thai">
+        <item>Đang học</item>
+        <item>Đình chỉ học</item>
+        <item>Tạm nghỉ học</item>
+        <item>Thôi học</item>
+    </string-array>
+</resources>
